@@ -1,26 +1,21 @@
-#Some useful Windows commands
+##Some useful Windows commands
 
-mostly from http://www.hanselman.com/blog/ForgottenButAwesomeWindowsCommandPromptFeatures.aspx
+*(mostly from http://www.hanselman.com/blog/ForgottenButAwesomeWindowsCommandPromptFeatures.aspx)*
 
 
-`| clip` 
+**`| clip`**
 pipe with the clipboard
 
-`tree`
+**`tree`**
 show folder hierarchy as a tree
 
- `dir /s`
+ **`dir /s`**
 returns folder content, recursively
 
-
-`"F7"`
-show the commands history
-
-
-`ver`
+**`ver`**
 shows Windows version
 
-`"alt+enter" or "F11"`
+**`"alt+enter" or "F11"`**
 fullscreen ?
 
 
