@@ -9,4 +9,5 @@
 
 - Simple Injector https://github.com/simpleinjector/SimpleInjector
 
+- XUnit.net http://xunit.github.io/
 
