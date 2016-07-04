@@ -1,13 +1,12 @@
 # Libs and Tools
 
 
-.Net
+###.Net
 
-Dapper
-https://github.com/StackExchange/dapper-dot-net
+- AutoMapper  https://github.com/AutoMapper/AutoMapper
 
-Simple Injector
-https://github.com/simpleinjector/SimpleInjector
+- Dapper  https://github.com/StackExchange/dapper-dot-net
 
-AutoMapper
-https://github.com/AutoMapper/AutoMapper
+- Simple Injector https://github.com/simpleinjector/SimpleInjector
+
+
