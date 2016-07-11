@@ -1,6 +1,6 @@
-##Some useful Windows commands
+# Some useful Windows commands
 
-*(mostly from http://www.hanselman.com/blog/ForgottenButAwesomeWindowsCommandPromptFeatures.aspx)*
+*(mostly from a [blog post](http://www.hanselman.com/blog/ForgottenButAwesomeWindowsCommandPromptFeatures.aspx) from Scott Hanselman)*
 
 
 **`| clip`**
