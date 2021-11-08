@@ -14,6 +14,6 @@
 - Azure Data Studio
 - Azure CLI?
 
-- WinMerge
-
 - 7-Zip
+- Greenshot
+- - WinMerge
