@@ -16,4 +16,4 @@
 
 - 7-Zip
 - Greenshot
-- - WinMerge
+- WinMerge
