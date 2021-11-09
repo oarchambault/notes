@@ -17,3 +17,4 @@
 - 7-Zip
 - Greenshot
 - WinMerge
+- DeepL
