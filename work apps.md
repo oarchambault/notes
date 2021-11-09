@@ -20,6 +20,8 @@
 - Azure Data Studio
 - Azure CLI?
 
+- dnSpy or ILSpy
+
 - 7-Zip
 - Greenshot
 - WinMerge
