@@ -3,7 +3,13 @@
 
 - Notepad++
 - VSCode
-- Visual Studio
+- Visual Studio (current extensions for 2019)
+  - CodeMaid
+  - Open Command Line
+  - File Icons
+  - Add New File
+  - Disable Solution Explorer's Dynamic Nodes
+  - Mouse Navigation
 
 - Windows Terminal
 
@@ -18,3 +24,11 @@
 - Greenshot
 - WinMerge
 - DeepL
+
+- Firefox
+  - uBlock Origin
+  - React Developer Tools
+  - To Google translate
+  - Level up
+
+- Azure VPN Client (Windows Store)
