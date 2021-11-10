@@ -13,8 +13,9 @@
 
 - Windows Terminal
 
-- Node
-- NVM for Windows
+- Git
+- NVM for Windows => Node
+- yarn
 
 - Azure Storage Explorer
 - Azure Data Studio
